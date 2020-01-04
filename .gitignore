@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+Test.ipynb
+__pycache__/
+train_in/
+valid_in/
+
